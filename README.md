@@ -3,8 +3,8 @@
 
 ## I'm a Programmer and love to help people!!
 
-- 🌱 I’m currently Docker and Laravel Advanced Concept
-- 🥅 2022 Goals: Learn more about php in depth
+- 🌱 I’m currently learing Docker and PHP Advanced Concept
+- 🥅 2022 Goals: Learn more about PHP in depth
 
 ### Languages and Tools:
 

@@ -1,7 +1,7 @@
 # Hi there, I'm Ikhtiar 👋 
 
 
-## I'm a Programmer and love to help people!!
+## I'm a Software Enginner @ Brain Station 23 !!
 
 - 🌱 I’m currently learing Docker and PHP Advanced Concept
 - 🥅 2022 Goals: Learn more about PHP in depth

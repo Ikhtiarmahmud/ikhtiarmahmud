@@ -4,7 +4,7 @@
 ## I'm a Software Enginner @ Brain Station 23 !!
 
 - 🌱 I’m currently learing Docker and PHP Advanced Concept
-- 🥅 2022 Goals: Learn more about PHP in depth
+- 🥅 2022 Goals: Learn more about PHP in depth & Design Pattern
 
 ### Languages and Tools:
 

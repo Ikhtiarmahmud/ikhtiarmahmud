@@ -3,8 +3,8 @@
 
 ## I'm a Software Enginner @ Brain Station 23 !!
 
-- 🌱 I’m currently learing Docker and PHP Advanced Concept
-- 🥅 2023 Goals: Learn more about PHP in depth & Design Pattern
+- 🌱 Continuously learning Backend development
+- 🥅 2024 Goals: Learn more about Microservice Architecture, Clean & Optimize Code & React JS Advance  
 
 ### Languages and Tools:
 

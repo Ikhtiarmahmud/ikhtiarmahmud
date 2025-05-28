@@ -1,7 +1,7 @@
 # Hi there, I'm Ikhtiar 👋 
 
 
-## I'm a Software Enginner @ Brain Station 23 !!
+## I'm a Software Enginner @ Pathao !!
 
 - 🌱 Continuously learning Backend development
 - 🥅 2025 Goals: Learn more about Microservice Architecture, DevOps, Clean & Optimize Code  

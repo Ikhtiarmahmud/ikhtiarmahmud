@@ -4,7 +4,7 @@
 ## I'm a Software Enginner @ Brain Station 23 !!
 
 - 🌱 Continuously learning Backend development
-- 🥅 2024 Goals: Learn more about Microservice Architecture, Clean & Optimize Code & React JS Advance  
+- 🥅 2025 Goals: Learn more about Microservice Architecture, DevOps, Clean & Optimize Code  
 
 ### Languages and Tools:
 
